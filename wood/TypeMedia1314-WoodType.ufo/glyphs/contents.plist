@@ -12,7 +12,12 @@
 	<string>G_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
+<<<<<<< HEAD
 	<key>Z</key>
 	<string>Z_.glif</string>
+=======
+	<key>O</key>
+	<string>O_.glif</string>
+>>>>>>> 4208e9ff283313be34c3a37183e5118f3b34f544
 </dict>
 </plist>
