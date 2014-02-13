@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xcounter" format="1">
+  <advance width="1414"/>
+  <outline>
+    <contour>
+      <point x="798" y="750" type="line"/>
+      <point x="798" y="461" type="line"/>
+      <point x="824" y="461" type="line"/>
+      <point x="824" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="871" y="461" type="line"/>
+      <point x="751" y="461" type="line"/>
+      <point x="811" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="39" type="line"/>
+      <point x="603" y="169" type="line"/>
+      <point x="543" y="39" type="line"/>
+    </contour>
+    <contour>
+      <point x="590" y="-250" type="line"/>
+      <point x="616" y="-250" type="line"/>
+      <point x="616" y="39" type="line"/>
+      <point x="590" y="39" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Xcounter</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1414</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

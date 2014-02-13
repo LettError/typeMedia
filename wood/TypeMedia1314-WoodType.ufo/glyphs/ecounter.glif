@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecounter" format="1">
+  <advance width="1414"/>
+  <outline>
+    <contour>
+      <point x="773" y="316" type="line"/>
+      <point x="773" y="376"/>
+      <point x="741.0" y="396.0"/>
+      <point x="703" y="396" type="curve"/>
+      <point x="664.0" y="396.0"/>
+      <point x="633" y="376"/>
+      <point x="633" y="316" type="curve"/>
+    </contour>
+    <contour>
+      <point x="773" y="106" type="curve"/>
+      <point x="633" y="106" type="line"/>
+      <point x="633" y="67"/>
+      <point x="664" y="36"/>
+      <point x="703" y="36" type="curve"/>
+      <point x="741" y="36"/>
+      <point x="773" y="67"/>
+    </contour>
+    <contour>
+      <point x="1414" y="129" type="line"/>
+      <point x="633" y="129" type="line"/>
+      <point x="633" y="106" type="line"/>
+      <point x="1414" y="106" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ecounter</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1414</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
