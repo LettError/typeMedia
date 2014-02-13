@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="1">
-  <advance width="2000"/>
+  <advance width="1414"/>
   <unicode hex="0050"/>
   <outline>
-    <contour>
-      <point x="0" y="-250" type="line"/>
-      <point x="2000" y="-250" type="line"/>
-      <point x="2000" y="750" type="line"/>
-      <point x="0" y="750" type="line"/>
-    </contour>
+    <component base="one_unit"/>
   </outline>
   <lib>
     <dict>
@@ -34,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>2000</integer>
+          <integer>1414</integer>
         </dict>
       </dict>
     </dict>
