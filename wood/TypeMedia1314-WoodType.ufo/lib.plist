@@ -45,6 +45,7 @@
 				<string>B</string>
 				<string>D</string>
 				<string>F</string>
+				<string>H</string>
 				<string>I</string>
 				<string>J</string>
 				<string>K</string>
@@ -81,7 +82,41 @@
 				<string>Hcounter</string>
 				<string>ecounter</string>
 				<string>Xcounter</string>
+				<string>Ocounter</string>
+				<string>Acounter</string>
+				<string>Acounter</string>
 				<string>Ccounter</string>
+				<string>Gcounter</string>
+				<string>Ccounter</string>
+				<string>Zcounter</string>
+				<string>ecounter</string>
+				<string>Xcounter</string>
+				<string>Z.james</string>
+				<string>G.james</string>
+				<string>R.james</string>
+				<string>I.james</string>
+				<string>K.james</string>
+				<string>V.james</string>
+				<string>A.james</string>
+				<string>B.james</string>
+				<string>P.james</string>
+				<string>W.james</string>
+				<string>D.james</string>
+				<string>Y.james</string>
+				<string>Q.james</string>
+				<string>O.james</string>
+				<string>J.james</string>
+				<string>U.james</string>
+				<string>H.james</string>
+				<string>F.james</string>
+				<string>T.james</string>
+				<string>S.james</string>
+				<string>E.james</string>
+				<string>M.james</string>
+				<string>L.james</string>
+				<string>N.james</string>
+				<string>C.james</string>
+				<string>X.james</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -139,32 +174,6 @@
 		<string>Zcounter</string>
 		<string>ecounter</string>
 		<string>Xcounter</string>
-		<string>Z.james</string>
-		<string>G.james</string>
-		<string>R.james</string>
-		<string>I.james</string>
-		<string>K.james</string>
-		<string>V.james</string>
-		<string>A.james</string>
-		<string>B.james</string>
-		<string>P.james</string>
-		<string>W.james</string>
-		<string>D.james</string>
-		<string>Y.james</string>
-		<string>Q.james</string>
-		<string>O.james</string>
-		<string>J.james</string>
-		<string>U.james</string>
-		<string>H.james</string>
-		<string>F.james</string>
-		<string>T.james</string>
-		<string>S.james</string>
-		<string>E.james</string>
-		<string>M.james</string>
-		<string>L.james</string>
-		<string>N.james</string>
-		<string>C.james</string>
-		<string>X.james</string>
 	</array>
 </dict>
 </plist>

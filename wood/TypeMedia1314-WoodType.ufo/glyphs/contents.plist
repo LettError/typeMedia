@@ -2,112 +2,60 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>A.james</key>
-	<string>A_.james.glif</string>
 	<key>Acounter</key>
 	<string>Acounter_.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
-	<key>B.james</key>
-	<string>B_.james.glif</string>
-	<key>C.james</key>
-	<string>C_.james.glif</string>
 	<key>Ccounter</key>
 	<string>Ccounter_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
-	<key>D.james</key>
-	<string>D_.james.glif</string>
-	<key>E.james</key>
-	<string>E_.james.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
-	<key>F.james</key>
-	<string>F_.james.glif</string>
-	<key>G.james</key>
-	<string>G_.james.glif</string>
 	<key>Gcounter</key>
 	<string>Gcounter_.glif</string>
 	<key>Hcounter</key>
 	<string>Hcounter_.glif</string>
 	<key>Hsides</key>
 	<string>Hsides_.glif</string>
-	<key>H.james</key>
-	<string>H_.james.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
-	<key>I.james</key>
-	<string>I_.james.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
-	<key>J.james</key>
-	<string>J_.james.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
-	<key>K.james</key>
-	<string>K_.james.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
-	<key>L.james</key>
-	<string>L_.james.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
-	<key>M.james</key>
-	<string>M_.james.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
-	<key>N.james</key>
-	<string>N_.james.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
-	<key>O.james</key>
-	<string>O_.james.glif</string>
 	<key>Ocounter</key>
 	<string>Ocounter_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
-	<key>P.james</key>
-	<string>P_.james.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
-	<key>Q.james</key>
-	<string>Q_.james.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
-	<key>R.james</key>
-	<string>R_.james.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
-	<key>S.james</key>
-	<string>S_.james.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
-	<key>T.james</key>
-	<string>T_.james.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
-	<key>U.james</key>
-	<string>U_.james.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
-	<key>V.james</key>
-	<string>V_.james.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
-	<key>W.james</key>
-	<string>W_.james.glif</string>
-	<key>X.james</key>
-	<string>X_.james.glif</string>
 	<key>Xcounter</key>
 	<string>Xcounter_.glif</string>
 	<key>Y</key>
 	<string>Y_.glif</string>
-	<key>Y.james</key>
-	<string>Y_.james.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
-	<key>Z.james</key>
-	<string>Z_.james.glif</string>
 	<key>Zcounter</key>
 	<string>Zcounter_.glif</string>
 	<key>ecounter</key>
