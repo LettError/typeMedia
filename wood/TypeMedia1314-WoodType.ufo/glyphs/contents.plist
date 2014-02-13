@@ -6,14 +6,14 @@
 	<string>Acounter_.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
-	<key>C</key>
-	<string>C_.glif</string>
+	<key>Ccounter</key>
+	<string>Ccounter_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
-	<key>G</key>
-	<string>G_.glif</string>
+	<key>Gcounter</key>
+	<string>Gcounter_.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
 	<key>I</key>
@@ -54,6 +54,8 @@
 	<string>Y_.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>Zcounter</key>
+	<string>Zcounter_.glif</string>
 	<key>ecounter</key>
 	<string>ecounter.glif</string>
 	<key>eight</key>

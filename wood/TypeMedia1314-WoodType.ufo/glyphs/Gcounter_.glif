@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcounter" format="1">
+  <advance width="1414"/>
+  <outline>
+    <contour>
+      <point x="1249" y="751" type="line"/>
+      <point x="1326" y="721"/>
+      <point x="1393" y="657"/>
+      <point x="1414" y="560" type="curve"/>
+      <point x="1414" y="751" type="line"/>
+    </contour>
+    <contour>
+      <point x="1414" y="227" type="line"/>
+      <point x="1414" y="253" type="line"/>
+      <point x="815" y="253" type="line"/>
+      <point x="815" y="227" type="line"/>
+    </contour>
+    <contour>
+      <point x="815" y="311" type="line"/>
+      <point x="737" y="321"/>
+      <point x="675" y="299"/>
+      <point x="675" y="240" type="curve" smooth="yes"/>
+      <point x="675" y="181"/>
+      <point x="737" y="160"/>
+      <point x="815" y="170" type="curve"/>
+    </contour>
+    <contour>
+      <point x="936" y="-250" type="curve"/>
+      <point x="1101" y="-250" type="line"/>
+      <point x="1054" y="-119" type="line"/>
+      <point x="1028" y="-181"/>
+      <point x="982" y="-229"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Gcounter</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1414</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

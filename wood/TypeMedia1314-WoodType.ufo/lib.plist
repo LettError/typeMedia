@@ -128,7 +128,14 @@
 		<string>one_unit</string>
 		<string>half_unit</string>
 		<string>Ocounter</string>
+<<<<<<< HEAD
 		<string>Acounter</string>
+=======
+		<string>Gcounter</string>
+		<string>Zcounter</string>
+		<string>Acounter</string>
+		<string>Ccounter</string>
+>>>>>>> 25f2884a29693da772de1b9fdd75a9b4f169bf80
 		<string>ecounter</string>
 		<string>Xcounter</string>
 	</array>
