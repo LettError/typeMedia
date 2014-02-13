@@ -80,6 +80,7 @@
 				<string>nine</string>
 				<string>one_unit</string>
 				<string>half_unit</string>
+				<string>Ocounter</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -127,6 +128,9 @@
 		<string>one_unit</string>
 		<string>half_unit</string>
 		<string>Ocounter</string>
+		<string>Acounter</string>
+		<string>ecounter</string>
+		<string>Xcounter</string>
 	</array>
 </dict>
 </plist>
