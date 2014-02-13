@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.james" format="1">
+  <advance width="500"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4782</real>
+        <real>0.898</real>
+        <real>0.8874</real>
+        <real>0.5</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
