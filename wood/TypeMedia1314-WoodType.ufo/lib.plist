@@ -42,14 +42,9 @@
 			<key>ascending</key>
 			<array>
 				<string>space</string>
-				<string>A</string>
 				<string>B</string>
-				<string>C</string>
 				<string>D</string>
-				<string>E</string>
 				<string>F</string>
-				<string>G</string>
-				<string>H</string>
 				<string>I</string>
 				<string>J</string>
 				<string>K</string>
@@ -65,7 +60,6 @@
 				<string>U</string>
 				<string>V</string>
 				<string>W</string>
-				<string>X</string>
 				<string>Y</string>
 				<string>Z</string>
 				<string>zero</string>
@@ -80,6 +74,14 @@
 				<string>nine</string>
 				<string>one_unit</string>
 				<string>half_unit</string>
+				<string>Gcounter</string>
+				<string>Acounter</string>
+				<string>Hsides</string>
+				<string>Ocounter</string>
+				<string>Hcounter</string>
+				<string>ecounter</string>
+				<string>Xcounter</string>
+				<string>Ccounter</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -88,14 +90,9 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>space</string>
-		<string>A</string>
 		<string>B</string>
-		<string>C</string>
 		<string>D</string>
-		<string>E</string>
 		<string>F</string>
-		<string>G</string>
-		<string>H</string>
 		<string>I</string>
 		<string>J</string>
 		<string>K</string>
@@ -111,7 +108,6 @@
 		<string>U</string>
 		<string>V</string>
 		<string>W</string>
-		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
 		<string>zero</string>
@@ -126,7 +122,14 @@
 		<string>nine</string>
 		<string>one_unit</string>
 		<string>half_unit</string>
+		<string>Gcounter</string>
+		<string>Acounter</string>
+		<string>Hsides</string>
 		<string>Ocounter</string>
+		<string>Hcounter</string>
+		<string>ecounter</string>
+		<string>Xcounter</string>
+		<string>Ccounter</string>
 	</array>
 </dict>
 </plist>

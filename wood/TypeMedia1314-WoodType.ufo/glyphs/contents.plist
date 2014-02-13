@@ -14,8 +14,10 @@
 	<string>F_.glif</string>
 	<key>Gcounter</key>
 	<string>Gcounter_.glif</string>
-	<key>H</key>
-	<string>H_.glif</string>
+	<key>Hcounter</key>
+	<string>Hcounter_.glif</string>
+	<key>Hsides</key>
+	<string>Hsides_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>J</key>
