@@ -26,6 +26,16 @@ import os
 #    gradient.drawFromPoint_toPoint_options_((0,0), (size[0],0), 0)
 #    image.unlockFocus()
 
+def drawLetter(f, glyphName, fontSize):
+    fontScale = float(fontSize) / f.info.unitsPerEm
+    save()
+    scale(fontScale)
+    c = CocoaPen(f)
+    f[glyphName].draw(c)
+    drawPath(c.path)
+    restore()
+
+
 
 ufoPath = u"wood/TypeMedia1314-WoodType.ufo"
 ufoPath = os.path.join(os.path.dirname(os.getcwd()), ufoPath)
@@ -40,10 +50,11 @@ cm = 28.3464567    # points in 1 centimeter
 #a6height = 10.5*cm
 #size(a6width, a6height)
 size(1000,1000)
-#translate(100,100)
-rect(10, 10, 100, 100)
+translate(50,400)
 
-c = CocoaPen(f)
-f["Ocounter"].draw(c)
-c.path.fill()
+fontSize = 200
+fill(1,0,0)
+drawLetter(f, "one_unit", fontSize)
+fill(1,1,0)
 
+drawLetter(f, "Acounter", fontSize)
