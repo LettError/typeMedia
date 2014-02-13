@@ -80,7 +80,6 @@
 				<string>nine</string>
 				<string>one_unit</string>
 				<string>half_unit</string>
-				<string>Ocounter</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -89,13 +88,9 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>space</string>
-		<string>A</string>
 		<string>B</string>
-		<string>C</string>
 		<string>D</string>
-		<string>E</string>
 		<string>F</string>
-		<string>G</string>
 		<string>H</string>
 		<string>I</string>
 		<string>J</string>
@@ -112,7 +107,6 @@
 		<string>U</string>
 		<string>V</string>
 		<string>W</string>
-		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
 		<string>zero</string>
@@ -127,13 +121,39 @@
 		<string>nine</string>
 		<string>one_unit</string>
 		<string>half_unit</string>
+		<string>X.james</string>
 		<string>Ocounter</string>
+		<string>M.james</string>
 		<string>Gcounter</string>
-		<string>Zcounter</string>
+		<string>Z.james</string>
+		<string>G.james</string>
+		<string>R.james</string>
+		<string>I.james</string>
+		<string>K.james</string>
+		<string>V.james</string>
+		<string>A.james</string>
 		<string>Acounter</string>
-		<string>Ccounter</string>
+		<string>B.james</string>
+		<string>P.james</string>
+		<string>W.james</string>
+		<string>D.james</string>
+		<string>Zcounter</string>
+		<string>Y.james</string>
+		<string>Q.james</string>
+		<string>O.james</string>
+		<string>J.james</string>
+		<string>U.james</string>
+		<string>H.james</string>
+		<string>F.james</string>
+		<string>T.james</string>
+		<string>S.james</string>
+		<string>E.james</string>
 		<string>ecounter</string>
+		<string>L.james</string>
+		<string>N.james</string>
 		<string>Xcounter</string>
+		<string>C.james</string>
+		<string>Ccounter</string>
 	</array>
 </dict>
 </plist>
