@@ -53,8 +53,8 @@ size(1000,1000)
 translate(50,400)
 
 fontSize = 200
-fill(1,0,0)
+fill(1,0,0.0,.6)
 drawLetter(f, "one_unit", fontSize)
-fill(1,1,0)
+fill(1,1,0.0,.6)
 
 drawLetter(f, "Acounter", fontSize)
