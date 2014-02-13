@@ -28,17 +28,12 @@
 	<string>G_.james.glif</string>
 	<key>Gcounter</key>
 	<string>Gcounter_.glif</string>
-<<<<<<< HEAD
 	<key>Hcounter</key>
 	<string>Hcounter_.glif</string>
 	<key>Hsides</key>
 	<string>Hsides_.glif</string>
-=======
-	<key>H</key>
-	<string>H_.glif</string>
 	<key>H.james</key>
 	<string>H_.james.glif</string>
->>>>>>> 0f34d8a712f0afbea4b3ab701e2cabbc6663d01f
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>I.james</key>
