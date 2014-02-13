@@ -93,6 +93,10 @@
 		<string>B</string>
 		<string>D</string>
 		<string>F</string>
+<<<<<<< HEAD
+=======
+		<string>H</string>
+>>>>>>> 0f34d8a712f0afbea4b3ab701e2cabbc6663d01f
 		<string>I</string>
 		<string>J</string>
 		<string>K</string>
@@ -122,6 +126,7 @@
 		<string>nine</string>
 		<string>one_unit</string>
 		<string>half_unit</string>
+<<<<<<< HEAD
 		<string>Gcounter</string>
 		<string>Acounter</string>
 		<string>Hsides</string>
@@ -129,6 +134,40 @@
 		<string>Hcounter</string>
 		<string>ecounter</string>
 		<string>Xcounter</string>
+=======
+		<string>X.james</string>
+		<string>Ocounter</string>
+		<string>M.james</string>
+		<string>Gcounter</string>
+		<string>Z.james</string>
+		<string>G.james</string>
+		<string>R.james</string>
+		<string>I.james</string>
+		<string>K.james</string>
+		<string>V.james</string>
+		<string>A.james</string>
+		<string>Acounter</string>
+		<string>B.james</string>
+		<string>P.james</string>
+		<string>W.james</string>
+		<string>D.james</string>
+		<string>Zcounter</string>
+		<string>Y.james</string>
+		<string>Q.james</string>
+		<string>O.james</string>
+		<string>J.james</string>
+		<string>U.james</string>
+		<string>H.james</string>
+		<string>F.james</string>
+		<string>T.james</string>
+		<string>S.james</string>
+		<string>E.james</string>
+		<string>ecounter</string>
+		<string>L.james</string>
+		<string>N.james</string>
+		<string>Xcounter</string>
+		<string>C.james</string>
+>>>>>>> 0f34d8a712f0afbea4b3ab701e2cabbc6663d01f
 		<string>Ccounter</string>
 	</array>
 </dict>
