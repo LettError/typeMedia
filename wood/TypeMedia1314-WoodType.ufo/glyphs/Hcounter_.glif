@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcounter" format="1">
+  <advance width="1414"/>
+  <outline>
+    <contour>
+      <point x="767" y="403" type="line"/>
+      <point x="647" y="403" type="line"/>
+      <point x="647" y="379" type="line"/>
+      <point x="767" y="379" type="line"/>
+    </contour>
+    <contour>
+      <point x="694" y="750" type="line"/>
+      <point x="694" y="403" type="line"/>
+      <point x="720" y="403" type="line"/>
+      <point x="720" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="767" y="101" type="line"/>
+      <point x="767" y="125" type="line"/>
+      <point x="647" y="125" type="line"/>
+      <point x="647" y="101" type="line"/>
+    </contour>
+    <contour>
+      <point x="694" y="-250" type="line"/>
+      <point x="720" y="-250" type="line"/>
+      <point x="720" y="101" type="line"/>
+      <point x="694" y="101" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Hcounter</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1414</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
