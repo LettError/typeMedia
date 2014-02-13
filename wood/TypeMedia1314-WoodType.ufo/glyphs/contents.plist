@@ -2,15 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<string>A_.glif</string>
+	<key>Acounter</key>
+	<string>Acounter_.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
-	<key>E</key>
-	<string>E_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -49,12 +48,14 @@
 	<string>V_.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
-	<key>X</key>
-	<string>X_.glif</string>
+	<key>Xcounter</key>
+	<string>Xcounter_.glif</string>
 	<key>Y</key>
 	<string>Y_.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>ecounter</key>
+	<string>ecounter.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
 	<key>five</key>
