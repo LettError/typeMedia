@@ -25,6 +25,7 @@
       <point x="885" y="30" type="curve"/>
       <point x="885" y="-250" type="line"/>
     </contour>
+    <component base="one_unit"/>
   </outline>
   <lib>
     <dict>
