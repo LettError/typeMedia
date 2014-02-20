@@ -81,6 +81,7 @@
 				<string>half_unit</string>
 				<string>Xcounter</string>
 				<string>Ccounter</string>
+				<string>bifurcates</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -129,6 +130,7 @@
 		<string>Xcounter</string>
 		<string>Ccounter</string>
 		<string>bifurcates</string>
+		<string>pattern01</string>
 	</array>
 </dict>
 </plist>
