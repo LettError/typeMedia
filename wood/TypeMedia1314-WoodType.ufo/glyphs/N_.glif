@@ -4,26 +4,6 @@
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="963" y="750" type="curve"/>
-      <point x="1252" y="750" type="line"/>
-      <point x="1115" y="750"/>
-      <point x="1112" y="739"/>
-      <point x="1112" y="582" type="curve"/>
-      <point x="1110" y="582" type="line"/>
-      <point x="1110" y="742"/>
-      <point x="1107" y="750"/>
-    </contour>
-    <contour>
-      <point x="263" y="750" type="curve"/>
-      <point x="552" y="750" type="line"/>
-      <point x="415" y="750"/>
-      <point x="412" y="739"/>
-      <point x="412" y="582" type="curve"/>
-      <point x="410" y="582" type="line"/>
-      <point x="410" y="742"/>
-      <point x="407" y="750"/>
-    </contour>
-    <contour>
       <point x="820" y="750" type="line"/>
       <point x="825" y="512"/>
       <point x="821" y="399"/>
@@ -78,17 +58,7 @@
       <point x="815" y="-65"/>
       <point x="812" y="-251" type="curve"/>
     </contour>
-    <contour>
-      <point x="552" y="-250" type="curve"/>
-      <point x="263" y="-250" type="line"/>
-      <point x="400" y="-250"/>
-      <point x="403" y="-239"/>
-      <point x="403" y="-82" type="curve"/>
-      <point x="405" y="-82" type="line"/>
-      <point x="405" y="-242"/>
-      <point x="408" y="-250"/>
-    </contour>
-    <component base="one_unit"/>
+    <component base="one_unit" xOffset="1910"/>
   </outline>
   <lib>
     <dict>
