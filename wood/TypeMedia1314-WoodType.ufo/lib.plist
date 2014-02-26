@@ -82,6 +82,7 @@
 				<string>Xcounter</string>
 				<string>Ccounter</string>
 				<string>bifurcates</string>
+				<string>pattern01</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -131,6 +132,7 @@
 		<string>Ccounter</string>
 		<string>bifurcates</string>
 		<string>pattern01</string>
+		<string>B-counter</string>
 	</array>
 </dict>
 </plist>
