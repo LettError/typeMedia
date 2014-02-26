@@ -12,6 +12,8 @@
 	<string>Ccounter_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
+	<key>D-counter</key>
+	<string>D-counter_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>Gcounter</key>
@@ -82,6 +84,8 @@
 	<string>six.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>three-counter</key>
+	<string>three-counter.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>zero</key>

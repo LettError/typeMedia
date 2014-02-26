@@ -134,6 +134,8 @@
 		<string>pattern01</string>
 		<string>M-counter</string>
 		<string>B-counter</string>
+		<string>D-counter</string>
+		<string>three-counter</string>
 	</array>
 </dict>
 </plist>
