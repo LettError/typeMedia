@@ -22,6 +22,10 @@
 	<string>Gcounter_.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
+	<key>Hcounter</key>
+	<string>Hcounter_.glif</string>
+	<key>Hsides</key>
+	<string>Hsides_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>J</key>
@@ -62,6 +66,8 @@
 	<string>Y_.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>Zcounter</key>
+	<string>Zcounter_.glif</string>
 	<key>bifurcates</key>
 	<string>bifurcates.glif</string>
 	<key>ecounter</key>
