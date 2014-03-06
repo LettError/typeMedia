@@ -83,6 +83,10 @@
 				<string>Ccounter</string>
 				<string>bifurcates</string>
 				<string>pattern01</string>
+				<string>M-counter</string>
+				<string>B-counter</string>
+				<string>D-counter</string>
+				<string>three-counter</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -136,6 +140,7 @@
 		<string>B-counter</string>
 		<string>D-counter</string>
 		<string>three-counter</string>
+		<string>C.mark</string>
 	</array>
 </dict>
 </plist>

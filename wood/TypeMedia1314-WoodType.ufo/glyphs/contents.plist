@@ -8,6 +8,8 @@
 	<string>B_.glif</string>
 	<key>B-counter</key>
 	<string>B-counter_.glif</string>
+	<key>C.mark</key>
+	<string>C_.mark.glif</string>
 	<key>Ccounter</key>
 	<string>Ccounter_.glif</string>
 	<key>D</key>
@@ -78,6 +80,8 @@
 	<string>one.glif</string>
 	<key>one_unit</key>
 	<string>one_unit.glif</string>
+	<key>pattern01</key>
+	<string>pattern01.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>six</key>
@@ -90,7 +94,5 @@
 	<string>two.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
-	<key>pattern01</key>
-	<string>pattern01.glif</string>
 </dict>
 </plist>
