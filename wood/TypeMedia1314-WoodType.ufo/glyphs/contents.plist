@@ -32,6 +32,8 @@
 	<string>I_.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
+	<key>J.mark</key>
+	<string>J_.mark.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
 	<key>L</key>
@@ -42,6 +44,8 @@
 	<string>M-counter_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
+	<key>N.mark</key>
+	<string>N_.mark.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>Ocounter</key>
@@ -52,8 +56,12 @@
 	<string>Q_.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
+	<key>R.mark</key>
+	<string>R_.mark.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
+	<key>S.mark</key>
+	<string>S_.mark.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>T.mark</key>
@@ -72,6 +80,8 @@
 	<string>Z_.glif</string>
 	<key>Zcounter</key>
 	<string>Zcounter_.glif</string>
+	<key>ampersand.mark</key>
+	<string>ampersand.mark.glif</string>
 	<key>bifurcates</key>
 	<string>bifurcates.glif</string>
 	<key>ecounter</key>

@@ -91,6 +91,8 @@
 				<string>C.mark</string>
 				<string>Zcounter</string>
 				<string>Hcounter</string>
+				<string>T.mark</string>
+				<string>G.mark</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -150,6 +152,11 @@
 		<string>Hcounter</string>
 		<string>T.mark</string>
 		<string>G.mark</string>
+		<string>ampersand.mark</string>
+		<string>S.mark</string>
+		<string>R.mark</string>
+		<string>N.mark</string>
+		<string>J.mark</string>
 	</array>
 </dict>
 </plist>
