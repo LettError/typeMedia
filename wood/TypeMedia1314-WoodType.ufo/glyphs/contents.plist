@@ -18,6 +18,8 @@
 	<string>D-counter_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
+	<key>G.mark</key>
+	<string>G_.mark.glif</string>
 	<key>Gcounter</key>
 	<string>Gcounter_.glif</string>
 	<key>H</key>
@@ -54,6 +56,8 @@
 	<string>S_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>T.mark</key>
+	<string>T_.mark.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>V</key>

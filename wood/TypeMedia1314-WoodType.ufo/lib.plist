@@ -87,6 +87,10 @@
 				<string>B-counter</string>
 				<string>D-counter</string>
 				<string>three-counter</string>
+				<string>Hsides</string>
+				<string>C.mark</string>
+				<string>Zcounter</string>
+				<string>Hcounter</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -144,6 +148,8 @@
 		<string>C.mark</string>
 		<string>Zcounter</string>
 		<string>Hcounter</string>
+		<string>T.mark</string>
+		<string>G.mark</string>
 	</array>
 </dict>
 </plist>
