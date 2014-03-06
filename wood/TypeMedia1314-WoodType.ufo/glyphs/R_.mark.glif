@@ -31,11 +31,11 @@
     </contour>
     <contour>
       <point x="541" y="362" type="line"/>
-      <point x="596" y="362"/>
-      <point x="627" y="346"/>
+      <point x="593" y="374"/>
+      <point x="627" y="355"/>
       <point x="627" y="317" type="curve" smooth="yes"/>
-      <point x="627" y="286"/>
-      <point x="596" y="268"/>
+      <point x="627" y="277"/>
+      <point x="598" y="260"/>
       <point x="541" y="268" type="curve"/>
     </contour>
   </outline>
@@ -43,6 +43,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>R.mark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1414</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
