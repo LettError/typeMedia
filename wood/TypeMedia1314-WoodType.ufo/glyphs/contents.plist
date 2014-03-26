@@ -2,84 +2,136 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>A.v2</key>
+	<string>A_.v2.glif</string>
 	<key>Acounter</key>
 	<string>Acounter_.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>B-counter</key>
 	<string>B-counter_.glif</string>
+	<key>B.v2</key>
+	<string>B_.v2.glif</string>
 	<key>C.mark</key>
 	<string>C_.mark.glif</string>
+	<key>C.v2</key>
+	<string>C_.v2.glif</string>
 	<key>Ccounter</key>
 	<string>Ccounter_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>D-counter</key>
 	<string>D-counter_.glif</string>
+	<key>D.v2</key>
+	<string>D_.v2.glif</string>
+	<key>E.v2</key>
+	<string>E_.v2.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
+	<key>F.v2</key>
+	<string>F_.v2.glif</string>
 	<key>G.mark</key>
 	<string>G_.mark.glif</string>
+	<key>G.v2</key>
+	<string>G_.v2.glif</string>
 	<key>Gcounter</key>
 	<string>Gcounter_.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
+	<key>H.v2</key>
+	<string>H_.v2.glif</string>
 	<key>Hcounter</key>
 	<string>Hcounter_.glif</string>
 	<key>Hsides</key>
 	<string>Hsides_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
+	<key>I.v2</key>
+	<string>I_.v2.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
 	<key>J.mark</key>
 	<string>J_.mark.glif</string>
+	<key>J.v2</key>
+	<string>J_.v2.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
+	<key>K.v2</key>
+	<string>K_.v2.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
+	<key>L.v2</key>
+	<string>L_.v2.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>M-counter</key>
 	<string>M-counter_.glif</string>
+	<key>M.v2</key>
+	<string>M_.v2.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
 	<key>N.mark</key>
 	<string>N_.mark.glif</string>
+	<key>N.v2</key>
+	<string>N_.v2.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
+	<key>O.v2</key>
+	<string>O_.v2.glif</string>
 	<key>Ocounter</key>
 	<string>Ocounter_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
+	<key>P.v2</key>
+	<string>P_.v2.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
+	<key>Q.v2</key>
+	<string>Q_.v2.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>R.mark</key>
 	<string>R_.mark.glif</string>
+	<key>R.v2</key>
+	<string>R_.v2.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>S.mark</key>
 	<string>S_.mark.glif</string>
+	<key>S.v2</key>
+	<string>S_.v2.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>T.mark</key>
 	<string>T_.mark.glif</string>
+	<key>T.v2</key>
+	<string>T_.v2.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>U.mark</key>
 	<string>U_.mark.glif</string>
+	<key>U.v2</key>
+	<string>U_.v2.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
+	<key>V.v2</key>
+	<string>V_.v2.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
+	<key>W.v2</key>
+	<string>W_.v2.glif</string>
+	<key>X.v2</key>
+	<string>X_.v2.glif</string>
 	<key>Xcounter</key>
 	<string>Xcounter_.glif</string>
 	<key>Y</key>
 	<string>Y_.glif</string>
+	<key>Y.v2</key>
+	<string>Y_.v2.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>Z.v2</key>
+	<string>Z_.v2.glif</string>
 	<key>Zcounter</key>
 	<string>Zcounter_.glif</string>
 	<key>ampersand.mark</key>
@@ -90,31 +142,51 @@
 	<string>ecounter.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>eight.v2</key>
+	<string>eight.v2.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>five.v2</key>
+	<string>five.v2.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>four.v2</key>
+	<string>four.v2.glif</string>
 	<key>half_unit</key>
 	<string>half_unit.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>nine.v2</key>
+	<string>nine.v2.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>one.v2</key>
+	<string>one.v2.glif</string>
 	<key>one_unit</key>
 	<string>one_unit.glif</string>
 	<key>pattern01</key>
 	<string>pattern01.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
+	<key>seven.v2</key>
+	<string>seven.v2.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>six.v2</key>
+	<string>six.v2.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>three-counter</key>
 	<string>three-counter.glif</string>
+	<key>three.v2</key>
+	<string>three.v2.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>two.v2</key>
+	<string>two.v2.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
+	<key>zero.v2</key>
+	<string>zero.v2.glif</string>
 </dict>
 </plist>

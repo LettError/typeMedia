@@ -42,6 +42,17 @@
 			<key>ascending</key>
 			<array>
 				<string>space</string>
+				<string>zero</string>
+				<string>one</string>
+				<string>one_unit</string>
+				<string>two</string>
+				<string>three</string>
+				<string>four</string>
+				<string>five</string>
+				<string>six</string>
+				<string>seven</string>
+				<string>eight</string>
+				<string>nine</string>
 				<string>B</string>
 				<string>D</string>
 				<string>F</string>
@@ -63,41 +74,67 @@
 				<string>W</string>
 				<string>Y</string>
 				<string>Z</string>
-				<string>zero</string>
-				<string>one</string>
-				<string>two</string>
-				<string>three</string>
-				<string>four</string>
-				<string>five</string>
-				<string>six</string>
-				<string>seven</string>
-				<string>eight</string>
-				<string>nine</string>
-				<string>Gcounter</string>
-				<string>one_unit</string>
 				<string>Acounter</string>
+				<string>B-counter</string>
+				<string>Ccounter</string>
+				<string>D-counter</string>
+				<string>Gcounter</string>
+				<string>Hcounter</string>
+				<string>Hsides</string>
+				<string>M-counter</string>
 				<string>Ocounter</string>
+				<string>Xcounter</string>
+				<string>Zcounter</string>
+				<string>bifurcates</string>
 				<string>ecounter</string>
 				<string>half_unit</string>
-				<string>Xcounter</string>
-				<string>Ccounter</string>
-				<string>bifurcates</string>
 				<string>pattern01</string>
-				<string>M-counter</string>
-				<string>B-counter</string>
-				<string>D-counter</string>
 				<string>three-counter</string>
-				<string>Hsides</string>
-				<string>C.mark</string>
-				<string>Zcounter</string>
-				<string>Hcounter</string>
+				<string>J.mark</string>
+				<string>N.mark</string>
+				<string>R.mark</string>
+				<string>S.mark</string>
 				<string>T.mark</string>
+				<string>U.mark</string>
+				<string>C.mark</string>
 				<string>G.mark</string>
 				<string>ampersand.mark</string>
-				<string>S.mark</string>
-				<string>R.mark</string>
-				<string>N.mark</string>
-				<string>J.mark</string>
+				<string>zero.v2</string>
+				<string>one.v2</string>
+				<string>two.v2</string>
+				<string>three.v2</string>
+				<string>four.v2</string>
+				<string>five.v2</string>
+				<string>six.v2</string>
+				<string>seven.v2</string>
+				<string>eight.v2</string>
+				<string>nine.v2</string>
+				<string>A.v2</string>
+				<string>B.v2</string>
+				<string>C.v2</string>
+				<string>D.v2</string>
+				<string>E.v2</string>
+				<string>F.v2</string>
+				<string>G.v2</string>
+				<string>H.v2</string>
+				<string>I.v2</string>
+				<string>J.v2</string>
+				<string>K.v2</string>
+				<string>L.v2</string>
+				<string>M.v2</string>
+				<string>N.v2</string>
+				<string>O.v2</string>
+				<string>P.v2</string>
+				<string>Q.v2</string>
+				<string>R.v2</string>
+				<string>S.v2</string>
+				<string>T.v2</string>
+				<string>U.v2</string>
+				<string>V.v2</string>
+				<string>W.v2</string>
+				<string>X.v2</string>
+				<string>Y.v2</string>
+				<string>Z.v2</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -106,6 +143,17 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>space</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>one_unit</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
 		<string>B</string>
 		<string>D</string>
 		<string>F</string>
@@ -127,42 +175,67 @@
 		<string>W</string>
 		<string>Y</string>
 		<string>Z</string>
-		<string>zero</string>
-		<string>one</string>
-		<string>two</string>
-		<string>three</string>
-		<string>four</string>
-		<string>five</string>
-		<string>six</string>
-		<string>seven</string>
-		<string>eight</string>
-		<string>nine</string>
-		<string>Gcounter</string>
-		<string>one_unit</string>
 		<string>Acounter</string>
+		<string>B-counter</string>
+		<string>Ccounter</string>
+		<string>D-counter</string>
+		<string>Gcounter</string>
+		<string>Hcounter</string>
+		<string>Hsides</string>
+		<string>M-counter</string>
 		<string>Ocounter</string>
+		<string>Xcounter</string>
+		<string>Zcounter</string>
+		<string>bifurcates</string>
 		<string>ecounter</string>
 		<string>half_unit</string>
-		<string>Xcounter</string>
-		<string>Ccounter</string>
-		<string>bifurcates</string>
 		<string>pattern01</string>
-		<string>M-counter</string>
-		<string>B-counter</string>
-		<string>D-counter</string>
 		<string>three-counter</string>
-		<string>Hsides</string>
-		<string>C.mark</string>
-		<string>Zcounter</string>
-		<string>Hcounter</string>
+		<string>J.mark</string>
+		<string>N.mark</string>
+		<string>R.mark</string>
+		<string>S.mark</string>
 		<string>T.mark</string>
+		<string>U.mark</string>
+		<string>C.mark</string>
 		<string>G.mark</string>
 		<string>ampersand.mark</string>
-		<string>S.mark</string>
-		<string>R.mark</string>
-		<string>N.mark</string>
-		<string>J.mark</string>
-		<string>U.mark</string>
+		<string>zero.v2</string>
+		<string>one.v2</string>
+		<string>two.v2</string>
+		<string>three.v2</string>
+		<string>four.v2</string>
+		<string>five.v2</string>
+		<string>six.v2</string>
+		<string>seven.v2</string>
+		<string>eight.v2</string>
+		<string>nine.v2</string>
+		<string>A.v2</string>
+		<string>B.v2</string>
+		<string>C.v2</string>
+		<string>D.v2</string>
+		<string>E.v2</string>
+		<string>F.v2</string>
+		<string>G.v2</string>
+		<string>H.v2</string>
+		<string>I.v2</string>
+		<string>J.v2</string>
+		<string>K.v2</string>
+		<string>L.v2</string>
+		<string>M.v2</string>
+		<string>N.v2</string>
+		<string>O.v2</string>
+		<string>P.v2</string>
+		<string>Q.v2</string>
+		<string>R.v2</string>
+		<string>S.v2</string>
+		<string>T.v2</string>
+		<string>U.v2</string>
+		<string>V.v2</string>
+		<string>W.v2</string>
+		<string>X.v2</string>
+		<string>Y.v2</string>
+		<string>Z.v2</string>
 	</array>
 </dict>
 </plist>
